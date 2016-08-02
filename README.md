@@ -1,4 +1,4 @@
-# Laravel Angular Admin
+﻿# Laravel Angular Admin
 使用技术:Laravel + Angularjs + Angulartrap + AdminLTE + Rquirejs
 
 
@@ -9,6 +9,7 @@
 ![create code](http://a2.qpic.cn/psb?/V11BOt0S4MAKLC/EenzPVIrRJV.Eo25f4kXRpKjqdwZNSlJgbWLrobEpaU!/b/dAwBAAAAAAAA&bo=tgSAAgAAAAADBxI!&rf=viewer_4)
 
 ![data](http://a3.qpic.cn/psb?/V11BOt0S4MAKLC/.yI5Ri3vs0YhqQJRrR35uER6DJzvHfdvOPl*aZPXpmM!/b/dNoAAAAAAAAA&bo=xgSAAgAAAAADAGU!&rf=viewer_4)
+
 
 ![index](http://a2.qpic.cn/psb?/V11BOt0S4MAKLC/0jGOAqd7u*Hq4bYUtYyWheVC7G*Ydw0dzZgwtcjlrhs!/b/dI0BAAAAAAAA&bo=nASAAgAAAAADBzg!&rf=viewer_4)
 
